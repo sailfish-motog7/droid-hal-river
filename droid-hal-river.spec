@@ -12,13 +12,19 @@
 
 %define straggler_files \
     /system \
-    /misc \
-    /vendor \
-    /vendor/firmware_mnt \
-    /vendor/dsp \
-    /vendor/fsg \
-    /mnt/vendor/persist \
-    /mnt/product/persist \
+    /bugreports \
+    /cache \
+    /d \
+    /product \
+    /sdcard \
+    /verity_key \
+    #/misc \
+    #/vendor \
+    #/vendor/firmware_mnt \
+    #/vendor/dsp \
+    #/vendor/fsg \
+    #/mnt/vendor/persist \
+    #/mnt/product/persist \
     /oem \
 %{nil}
 
