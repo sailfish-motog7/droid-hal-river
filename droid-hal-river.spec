@@ -17,8 +17,8 @@
     /d \
     /product \
     /sdcard \
-    /product_services \
-    #/verity_key \
+    #/product_services \
+    /verity_key \
     #/misc \
     #/vendor \
     #/vendor/firmware_mnt \
